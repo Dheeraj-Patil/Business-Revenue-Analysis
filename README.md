@@ -1,0 +1,2 @@
+# Business-Revenue-Analysis
+Data Visualization is an important part of business activities as organizations nowadays collect a huge amount of data. Sensors all over the world are collecting climate data, user data through clicks, car data for prediction of steering wheels etc. All of these data collected hold key insights for businesses and visualizations make these insights easy to interpret. In Many businesses the top performing products needs to get refined and the least performing either refined or dropped. This project focuses on finding the best-selling products.
